@@ -1,0 +1,25 @@
+{
+  "name": "api-video-prototype",
+  "version": "1.0.0",
+  "description": "`$ npm install`<br> `$ npm run start`",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexOkhremenko1/api-video-prototype.git"
+  },
+  "keywords": [
+    "api.video"
+  ],
+  "author": "AlexOkhremenko1",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlexOkhremenko1/api-video-prototype/issues"
+  },
+  "homepage": "https://github.com/AlexOkhremenko1/api-video-prototype#readme",
+  "dependencies": {
+    "@api.video/nodejs-client": "^2.2.2"
+  }
+}
